@@ -5,3 +5,4 @@ CNAME
 prism/
 tools/
 *.zip
+.gitattributes
