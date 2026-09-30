@@ -1,8 +1,8 @@
 name = "ftb-filter-system"
-filename = "ftb-filter-system-neoforge-21.1.4.jar"
+filename = "ftb-filter-system-neoforge-26.1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://maven.ftb.dev/releases/dev/ftb/mods/ftb-filter-system-neoforge/21.1.4/ftb-filter-system-neoforge-21.1.4.jar"
+url = "https://maven.ftb.dev/releases/dev/ftb/mods/ftb-filter-system-neoforge/26.1.2.2/ftb-filter-system-neoforge-26.1.2.2.jar"
 hash-format = "sha256"
-hash = "b8700e8bfd9c78b09bc7819cb28a6318b20d2bf68969bc6894a0bfa39581a99b"
+hash = "7c3f61db2858c0ae6fbc351a569018137a1c8831766da2f163b2e3a69e814a2d"

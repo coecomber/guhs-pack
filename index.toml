@@ -2,100 +2,95 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+hash = "465c5bb547d0b9f87b7573a64f09571d64d3ff43acf2e632f04bd0a6631faf77"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+hash = "3349c13d31e1eecd560c0b35408b860fea7abe7e35192f4465c0b7801b4249f4"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "416300f0880e3bb567ed96aeef41f8e7854a8a08687e00b8dd07e8afabd81a3e"
 metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
+hash = "dc653c67bfffcba271ac1de8ed61844adfb9347b9b18dcef1b8b9613b8164f55"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
 metafile = true
 
 [[files]]
 file = "mods/ftb-essentials.pw.toml"
-hash = "106fd8176e357a76b4f5498bb664c5465e746b97216ccd3167ea03e95853d5ae"
+hash = "093d414463d79fdb49f07a27afe698d7574a540827944cabcf6099ab4314c5bd"
 metafile = true
 
 [[files]]
 file = "mods/ftb-filter-system.pw.toml"
-hash = "f4c14d5831b04cd40628ef4393ab5b1acd817ba13ef05b2c6aa70f516d506320"
+hash = "b05b5db3e22b4530b98ac64756958e33f10d0d7d54227f8b4af9d2e2d5b32ca4"
 metafile = true
 
 [[files]]
 file = "mods/ftb-library.pw.toml"
-hash = "36a0c900b3178821dc8a4c5c209af9073db8b99f59dcf1fdf36f29c92e64ea52"
+hash = "bf7e9df72745cbb5477d9ea1285592920fb317e8196039269941f51986bd40ad"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests.pw.toml"
-hash = "a1f154f42b0e134d89c37b84df406cc3904f4073e9139bb72f23e636b401cda7"
+hash = "14d33427b8aee0904a0c035f3d1e1aa01bbcdf8f3febfe2c157516dcac5ebbbe"
 metafile = true
 
 [[files]]
 file = "mods/ftb-teams.pw.toml"
-hash = "b41b47a9c4ee5ad8217b5a80ac270d77c2b642da78b290b5dfba4a87199dbc29"
+hash = "aba6cbfdc89be102ef8a22819a3d994e26b46bd37139ddaa227091185db5925f"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
-metafile = true
-
-[[files]]
-file = "mods/guhs.pw.toml"
-hash = "8c827c0a2fd975a2e2cd14bdcea984cc71908d32e414162e3a21ffde902a329f"
+hash = "df8c8eb2779cc3d279a8099eb06549b74bf1341783da3e6bb0ab1341147c6154"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
+hash = "460cd3eb9cad1682e1c50e62e67bafd5733bfcb1dded687d8cbd5d050ba823be"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fb3233553d7a88373fcd54e6fbeac1f593fdfbe44f00e0c24790a01774545e2f"
+hash = "c1f2c3c7e1df9e93b51363fbd5d2b8f13bdbeacc41f7d09ba6bf795a0628c02d"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "783ed30ab6f6f60c604b9bdc2f26ec5b23c7a523179aa17119dbc541f7149022"
+hash = "ea8bd739638ee399169ff3d5a87e6426e820934fbf86baad3bd84858526c538e"
 metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
-metafile = true
-
-[[files]]
-file = "mods/mezzconfig.pw.toml"
-hash = "1a0a919e4815e3869846483c937ecb395d0700fa10a1d1feae790508853773d8"
+hash = "ab8ecf9e10ba7f3897f8331d90754ac44d34ecbc7e9a78ef65f089e742d8efac"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
+hash = "04dea091ee3fa1355b83592ef4e48713634ca7d6250926ff0f436b0a0adaf721"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+hash = "e4050c6052ef4c4f50f7b49faee15fcbbd13ebe28fdc61e1a4056d69ac4a16d5"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
+hash = "28ac0a3f463db9b3e3809080dada7e757cbbbb99c75ac99be509ad4d5c4268fa"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+hash = "4f849e035ef73fca068136a355b0594250ecaad7a23e36c807046b47e36858d9"
 metafile = true

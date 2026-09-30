@@ -1,8 +1,8 @@
 name = "ftb-essentials"
-filename = "ftb-essentials-neoforge-2101.1.10.jar"
+filename = "ftb-essentials-neoforge-26.1.2.4.jar"
 side = "both"
 
 [download]
-url = "https://maven.ftb.dev/releases/dev/ftb/mods/ftb-essentials-neoforge/2101.1.10/ftb-essentials-neoforge-2101.1.10.jar"
+url = "https://maven.ftb.dev/releases/dev/ftb/mods/ftb-essentials-neoforge/26.1.2.4/ftb-essentials-neoforge-26.1.2.4.jar"
 hash-format = "sha256"
-hash = "a61de1b883ec9d6d652276f453e8e60b18bd315fef8c62f21d6545260d526587"
+hash = "5913e07d120be90e5e6b4f7e3afb98ddf450aa729f80c486fcfa5526dc70be82"

@@ -1,8 +1,8 @@
 name = "ftb-quests"
-filename = "ftb-quests-neoforge-2101.1.29.jar"
+filename = "ftb-quests-neoforge-26.1.2.8.jar"
 side = "both"
 
 [download]
-url = "https://maven.ftb.dev/releases/dev/ftb/mods/ftb-quests-neoforge/2101.1.29/ftb-quests-neoforge-2101.1.29.jar"
+url = "https://maven.ftb.dev/releases/dev/ftb/mods/ftb-quests-neoforge/26.1.2.8/ftb-quests-neoforge-26.1.2.8.jar"
 hash-format = "sha256"
-hash = "2ffadf25c6cf01fd77bfddee0263e526750ae3597befed77004dddf40ef8e2c1"
+hash = "f782ca1aa31876da300c120e7cab205363a4db5a47b33db61ce5bc460f0fe87a"

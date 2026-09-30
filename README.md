@@ -1,6 +1,6 @@
 # Guhs Pack: de officiële Guhs-server
 
-Een [packwiz](https://packwiz.infra.link/)-pack voor de officiële **Guhs**-server (**guhs.nl**, Minecraft 1.21.1 + NeoForge 21.1.251).
+Een [packwiz](https://packwiz.infra.link/)-pack voor de officiële **Guhs**-server (**guhs.nl**, Minecraft 26.1.2 + NeoForge 26.1.2.112).
 De server en de Prism-instance halen hun mods allebei uit dit pack, dus je hebt altijd precies de goede mods.
 
 ## 🇳🇱 Spelen in 3 stappen (Prism Launcher)
@@ -22,11 +22,11 @@ The instance updates its mods automatically on every launch.
 ## Mods
 | Mod | Side |
 |---|---|
-| Guhs 1.0.0 | both |
-| GeckoLib, JEI (+MezzConfig), Jade, JourneyMap, AppleSkin, Lootr, Architectury API, ModernFix, FerriteCore, spark | both |
+| Guhs 1.1.0 | both |
+| GeckoLib, JEI, Jade, JourneyMap, AppleSkin, Lootr, Architectury API, ModernFix, FerriteCore, spark | both |
 | FTB Library, FTB Teams, FTB Filter System, FTB Quests, FTB Essentials | both |
 | Sodium, Mouse Tweaks | client |
-| Chunky | server |
+| Chunky, BlueMap | server |
 
 ## Maintainers
 Edit with `packwiz` in this folder (e.g. `packwiz modrinth add <slug>`, `packwiz update --all`, `packwiz refresh`), then commit and push.
