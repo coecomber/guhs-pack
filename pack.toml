@@ -1,0 +1,13 @@
+name = "Guhs Pack"
+author = "Juiced"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bfdb1c7349fe04c6e325cc3eaae1f6a9df1833664b029b9cbb08739cd252dfe7"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.251"
