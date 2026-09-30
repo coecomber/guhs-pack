@@ -56,6 +56,11 @@ hash = "df8c8eb2779cc3d279a8099eb06549b74bf1341783da3e6bb0ab1341147c6154"
 metafile = true
 
 [[files]]
+file = "mods/guhs.pw.toml"
+hash = "1d7050e536a7ba313bba52fd540d67a6ae00537dd8c1ed132707ccb8b2767156"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "460cd3eb9cad1682e1c50e62e67bafd5733bfcb1dded687d8cbd5d050ba823be"
 metafile = true
