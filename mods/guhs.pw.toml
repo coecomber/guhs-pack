@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/coecomber/guhs/releases/download/v1.3.1/guhs-1.3.1.jar"
 hash-format = "sha256"
-hash = "0"
+hash = "e2d885e8444e0671076339b2513de073200eb16084d936da2add44eda55d0dce"
