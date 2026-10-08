@@ -1,8 +1,8 @@
 name = "guhs"
-filename = "guhs-1.3.2.jar"
+filename = "guhs-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/coecomber/guhs/releases/download/v1.3.2/guhs-1.3.2.jar"
+url = "https://github.com/coecomber/guhs/releases/download/v1.4.0/guhs-1.4.0.jar"
 hash-format = "sha256"
-hash = "8318301c754073891e9f425207313e939882324ef2288bd04a69e8105d862b14"
+hash = "68fbba9e2c61624d972f956f438c5db1b536251ef99ee4c95e393e2ed1d1dc63"
