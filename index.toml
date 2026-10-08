@@ -99,3 +99,7 @@ metafile = true
 file = "mods/spark.pw.toml"
 hash = "4f849e035ef73fca068136a355b0594250ecaad7a23e36c807046b47e36858d9"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "11f627ad67f3306803f6263920aee668e6eafbd4abf52b5326901f20bcab2f67"
