@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/guhs.pw.toml"
-hash = "ae2172b548729c4dbdf09ae89e625bffec6bd424014151b30e5fdd5772557d69"
+hash = "b40353d2ce57cdf512d764e87f90bfa66d4905ccaa99384be93f402ec2d864bc"
 metafile = true
 
 [[files]]
