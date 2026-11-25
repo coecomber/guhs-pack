@@ -1,12 +1,12 @@
 name = "Guhs Pack"
 author = "Juiced"
-version = "1.10.20"
+version = "1.10.21"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b7fa625815def04ad054727576f0fb2d662d835f5be378224530d2374c56fcf9"
+hash = "d201855065aa7031a6a7f4fb594c0b0d6a4cdf18a8f69e80828608a0d8561d1e"
 
 [versions]
 minecraft = "26.1.2"
